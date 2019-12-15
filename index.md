@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food Globalization
-subtitle: Wow. Trade changes things.
+subtitle: How has Agricultural Trade Changed in the Past 20 Years.
 use-site-title: true
 ---
 

@@ -21,7 +21,7 @@ China has emerged as an importer.
 
 Some products, little known in 1993, are now massively popular in different regions across the world.
 
-## TEXT:
+## TEXT
 
 We all have heard about "globalization" and how it has changed the way we trade. Think about it, how much of the food you consume has been produced locally? Did people have acces to all these international products before? Have you ever seen your grandma (or grandpa) cooking this fancy thing called "quinoa" that flies from another country? Yes, GLOBALIZATION is a fact, but how is it really changing worldwide?
 
@@ -45,7 +45,7 @@ So we have seen changes in **China** and **Brazil**: any relationship within the
 
 (Trading routes)
 
-Back to 1993, main trade line: U.S.-Japan, from the main exporter to the main importer by the time. But one line trade seems to become more and more important over the years: **Brazil-China!** So yes, it seems that our new relevant exporter is trading a lot with the importer-Queen, but which kind of products? 
+Back to 1993, main trade line: U.S.-Japan, from the main exporter to the main importer by the time. But one line trade seems to become more and more important over the years: **Brazil-China!** So yes, it seems that our new relevant exporter is trading a lot with the importer-Queen, but which kind of products?
 
 (SOYBEANS --> Graph)
 

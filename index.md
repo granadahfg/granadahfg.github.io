@@ -5,43 +5,21 @@ subtitle: Wow. Trade changes things.
 use-site-title: true
 ---
 
-## This is a MD page
+## Introduction
 
-Cool! Here is a list.
+We studied how agricultural trade has changed between 1993 and 2016, using data from the FAO (Food and Agriculture Organisation).
 
-* I
-* Like
-* to
-* Eat
+## Global Trade
 
-## Go us! Yay
+Trade has increased so much between 1993 and 2016.
 
-Normal text.
+### New Trade Countries
 
-## I need more space
+Brazil has emerged as an exporter.
 
-this \\
-is \\
-so \\
-much \\
-text \\
-just \\
-to \\
-see \\
-if \\
-the \\
-hyperlink \\
-works \\
-i \\
-really \\
-hope \\
-it \\
-does \\
-it \\
-would \\
-be \\
-so \\
-cool
+China has emerged as an importer.
+
+Some products, little known in 1993, are now massively popular in different regions across the world.
 
 ## Countries
 
@@ -164,3 +142,7 @@ would \\
 be \\
 so \\
 cool
+
+## Conclusions
+
+Here are our conclusions.

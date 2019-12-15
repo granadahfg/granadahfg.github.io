@@ -21,11 +21,11 @@ description: Study of Changes in Agricultural Trade Between 1993 and 2016
 # List of links in the navigation bar
 navbar-links:
   Produce: 
-    - Quinoa: "index#Quinoa"
-    - Avocados: "index#Avocados"
+    - Quinoa: "#quinoa"
+    - Avocados: "#avocados"
   Countries:
-    - China: "index#China"
-    - Brazil: "index#Brazil"
+    - China: "#china"
+    - Brazil: "#brazil"
   GitHub: "https://github.com/n-poulsen/GranADA"
 
 # Image to show in the navigation bar - image must be a square (width = height)

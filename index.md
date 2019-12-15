@@ -25,124 +25,42 @@ Some products, little known in 1993, are now massively popular in different regi
 
 ### China
 
-China is a very big country.\\
-Big. Many import. \\
-this \\
-is \\
-so \\
-much \\
-text \\
-just \\
-to \\
-see \\
-if \\
-the \\
-hyperlink \\
-works \\
-i \\
-really \\
-hope \\
-it \\
-does \\
-it \\
-would \\
-be \\
-so \\
-cool
+China has become the biggest importer of agricultural product in the world.
+
+China mostly imports soy, from Brazil and the USA.
+
+They have grown to this position between 1993 and 2016
 
 ### Brazil
 
-Big. Many export. \\
-this \\
-is \\
-so \\
-much \\
-text \\
-just \\
-to \\
-see \\
-if \\
-the \\
-hyperlink \\
-works \\
-i \\
-really \\
-hope \\
-it \\
-does \\
-it \\
-would \\
-be \\
-so \\
-cool
+Brazil has emerged as one the worlds largest exporters.
+
+They mostly trade with China.
+
+They produce a lot of soy.
 
 ## Products
 
 ### Avocados
 
-Avocados are cool. Very cool.
+Avocados have become greatly popular.
 
-* Delicious
-* Swag
-* damn
+They are mostly imported to the USA, from Mexico.
 
-So nutritious, so delicious
+This wasn't the case in 1993.
 
-this \\
-is \\
-so \\
-much \\
-text \\
-just \\
-to \\
-see \\
-if \\
-the \\
-hyperlink \\
-works \\
-i \\
-really \\
-hope \\
-it \\
-does \\
-it \\
-would \\
-be \\
-so \\
-cool
+Mexico was already an important exporter, but they exported mostly to Israel?
 
 ### Quinoa
 
-Quinoa is cool.
+Quinoa was totaly unknown in Western Europe and the USA in 1993.
 
-* Delicious
-* Swag
-
-So nutritious
-
-this \\
-is \\
-so \\
-much \\
-text \\
-just \\
-to \\
-see \\
-if \\
-the \\
-hyperlink \\
-works \\
-i \\
-really \\
-hope \\
-it \\
-does \\
-it \\
-would \\
-be \\
-so \\
-cool
+It became a health food craze, and what was once a crop only eaten in Peru and Bolivia is now consumed in the whole world.
 
 ## Conclusions
 
 Here are our conclusions.
+
+Trade has changed.
+
+Its great, but also sucks.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food Globalization
-subtitle: How has Agricultural Trade Changed in the Past 20 Years.
+subtitle: How has agricultural trade changed over the past 20 years?
 use-site-title: true
 ---
 

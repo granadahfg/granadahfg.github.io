@@ -5,7 +5,7 @@ subtitle: Wow. Trade changes things.
 use-site-title: true
 ---
 
-# This is a MD page
+## This is a MD page
 
 Cool! Here is a list.
 

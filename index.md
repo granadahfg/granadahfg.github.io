@@ -66,6 +66,8 @@ Why do they import it?
 * Not enough production increase for the population increase?
 * Higher GDP?
 
+![super cool plot](img/super_cool_fig.png)
+
 How has their total production changed in that time?
 
 How have their exports changed?

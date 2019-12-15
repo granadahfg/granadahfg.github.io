@@ -53,16 +53,22 @@ And what about U.S. China?
 
 (Graph)
 
-
 ## Countries
 
 ### China
 
 China has become the biggest importer of agricultural product in the world.
 
-China mostly imports soy, from Brazil and the USA.
+What do they import?
 
-They have grown to this position between 1993 and 2016
+Why do they import it?
+
+* Not enough production increase for the population increase?
+* Higher GDP?
+
+How has their total production changed in that time?
+
+How have their exports changed?
 
 ### Brazil
 
@@ -71,6 +77,10 @@ Brazil has emerged as one the worlds largest exporters.
 They mostly trade with China.
 
 They produce a lot of soy.
+
+How has their arable land increased?
+
+Where did it increase? (Amazon duh)
 
 ## Products
 

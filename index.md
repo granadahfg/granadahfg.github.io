@@ -59,18 +59,29 @@ And what about U.S. China?
 
 China has become the biggest importer of agricultural product in the world.
 
+Exports stay constant, while imports increase exponentially.
+
+!["Chinese Agricultural Imports and Exports Values, 1993-2016"](img/imp_exp.png "Chinese Agricultural Imports and Exports, in Tonnes")
+
 What do they import?
+
+Mostly soy.
+
+What do they use it for?
+
+To feed pigs.
 
 Why do they import it?
 
-* Not enough production increase for the population increase?
-* Higher GDP?
-
-![super cool plot](img/super_cool_fig.png)
+Due to policies. They do not want to depend on imports for grain.
 
 How has their total production changed in that time?
 
+Production increases, but not for soy.
+
 How have their exports changed?
+
+They haven't.
 
 ### Brazil
 

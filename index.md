@@ -5,6 +5,8 @@ subtitle: How has agricultural trade changed over the past 20 years?
 use-site-title: true
 ---
 
+//bundle exec jekyll build
+
 ## Introduction
 
 We studied how agricultural trade has changed between 1993 and 2016, using data from the FAO (Food and Agriculture Organisation).
@@ -53,19 +55,33 @@ And what about U.S. China?
 
 (Graph)
 
+Fake graph:
+
+<iframe
+    src="supercool_map.html"
+    width="100%"
+    height="400"
+    seamless="seamless"
+    frameBorder="0">
+</iframe>
+
 ## Countries
 
 ### China
 
-China has become the biggest importer of agricultural product in the world.
+We have seen that China has become the largest importer of agricultural products in the world. But how exactly has China's imports changed? Here is a look at total Chinese imports, between 1993 and 2016.
 
-Exports stay constant, while imports increase exponentially.
+!["Chinese Agricultural Imports and Exports Values, 1993-2016"](img/china_imp_exp.png "Chinese Agricultural Imports and Exports, in Tonnes")
 
-!["Chinese Agricultural Imports and Exports Values, 1993-2016"](img/imp_exp.png "Chinese Agricultural Imports and Exports, in Tonnes")
+As we can see Chinese imports skyrocket but their exports stay more or less stable. But what do they import? Here are the 5 products most imported in China in 2016, and their evolution since 1993. Here is a stackplot of imports.
 
-What do they import?
-
-Mostly soy.
+<iframe
+    src="img/china_import_soy.html"
+    width="80%"
+    height="600"
+    seamless="seamless"
+    frameBorder="0">
+</iframe>
 
 What do they use it for?
 

@@ -77,8 +77,8 @@ As we can see Chinese imports skyrocket but their exports stay more or less stab
 
 <iframe
     src="img/china_import_soy.html"
-    width="80%"
-    height="600"
+    width="800"
+    height="400"
     seamless="seamless"
     frameBorder="0">
 </iframe>

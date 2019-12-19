@@ -29,7 +29,6 @@ China has become the primary importer of agricultural products by tonnes on the 
 
 We have seen that China has become the largest importer of agricultural products in the world. But how exactly has China's imports changed? Here is a look at total Chinese imports, between 1993 and 2016.
 
-
 <iframe
     src="img/china_import_export.html"
     width="820"
@@ -80,7 +79,17 @@ Where did it increase? (Amazon duh)
 
 ### Avocados
 
-We start by looking at how the trade of avocados has changed from 1993 to 2016. The first thing that catches our attention is the increase of the Avocados exported from Mexico to the US. Back to 1993, the main exporter of Avocados to the US was Chile, while most of the exports from Mexico went to Europe. The United States had banned  avocados in 1994 to eliminate the threat of Mexican pests, such as the fruit fly. But in 1994, with the North American Free Trade Agreement (NAFTA), Mexican avocados entered the American market, alongside Californian avocados that had sustained the country throughout the existence of the ban. An avocado explosion followed: in 2016, 76% of the total exports of Avocados from Mexico went to the US, compared to only 13% in 1994. However, despite this increase in Mexicos’s avocados production, ** can Mexico handle the demand of imports to the US? Mexico seems to be facing a “[guacamole crisis](<https://www.dw.com/en/mexico-facing-a-guacamole-crisis/a-49703429>)".
+We start by looking at how the trade of avocados has changed from 1993 to 2016.
+
+<iframe
+    src="img/avocados_trade_map.html"
+    width="820"
+    height="420"
+    seamless="seamless"
+    frameBorder="0">
+</iframe>
+
+The first thing that catches our attention is the increase of the Avocados exported from Mexico to the US. Back to 1993, the main exporter of Avocados to the US was Chile, while most of the exports from Mexico went to Europe. The United States had banned  avocados in 1994 to eliminate the threat of Mexican pests, such as the fruit fly. But in 1994, with the North American Free Trade Agreement (NAFTA), Mexican avocados entered the American market, alongside Californian avocados that had sustained the country throughout the existence of the ban. An avocado explosion followed: in 2016, 76% of the total exports of Avocados from Mexico went to the US, compared to only 13% in 1994. However, despite this increase in Mexicos’s avocados production, ** can Mexico handle the demand of imports to the US? Mexico seems to be facing a “[guacamole crisis](<https://www.dw.com/en/mexico-facing-a-guacamole-crisis/a-49703429>)".
 
 ** from almost 800 thousand Tonnes in 1994 to 1890 thounsands in 2016
 
@@ -137,11 +146,3 @@ And what about U.S. China?
 (Graph)
 
 Fake graph:
-
-<iframe
-    src="supercool_map.html"
-    width="100%"
-    height="400"
-    seamless="seamless"
-    frameBorder="0">
-</iframe>

@@ -5,8 +5,6 @@ subtitle: How has agricultural trade changed over the past 20 years?
 use-site-title: true
 ---
 
-//bundle exec jekyll build
-
 ## Introduction
 
 Food is not just food. Nowadays, people are aware that the source of your food is much more than just a label. Where food comes from defines the price. Your avocadoes crossed an ocean, they are going to be expensive. But a product’s origin can mean so much more. The food you produce has a carbon foot-print. Depending on the country, workers might not be treated humanely. Some countries, might even have diseases for specific crops, while other  countries don’t. Careful with that banana you bought at the airport, you wouldn’t want bananas to go extinct, again [LINK]. As 21st century “smart” consumers, we are aware that we should always ask ourselves the question: where does my food come from?
@@ -146,3 +144,5 @@ And what about U.S. China?
 (Graph)
 
 Fake graph:
+
+//bundle exec jekyll build

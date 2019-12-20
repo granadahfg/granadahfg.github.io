@@ -9,6 +9,13 @@ But have you ever asked yourself: _why_ does my food comes from the places it do
 
 Here we look at examples of how various factors, from population growth to consumer demands, can affect the production and international trade of crops. Our aim is to show you how multiple factors have come together to change the global crop market over the past two decades. These global changes, ultimately have had surprising and often undesirable effects on individual countries.
 
+<iframe
+    src="assets/html/Globaal_trade_item.html"
+    height="550"
+    seamless="seamless"
+    frameBorder="0">
+</iframe>
+
 Since 1993, the type of crops that are traded have not changed much. Despite what social media might make you believe, super-food have not completely changed what people produce, trade, and consume. Since 1993, the most traded products have by far been wheat, maize, and soybean. While these are staple foods throughout the world, they are not produced at much higher quantities than other staples like potatoes and rice. The real driver behind the trade of these three products is animal feed and biofuel production [^1].
 
 [^1]: Cassidy, Emily S., et al. "Redefining agricultural yields: from tonnes to people nourished per hectare." Environmental Research Letters 8.3 (2013): 034015.
@@ -51,6 +58,8 @@ Brazil is almost at the [antipode](https://en.wikipedia.org/wiki/Antipodes) of C
 Brazil’s trade policies used to be mostly oriented inwards. In the early 90’s, Brazilian exports remained relatively constant, mainly due to an unstable macroeconomic and international context. During this time, it liberalized its trade regime.  A surge in agricultural production at the end of the decade, along with sound macroeconomic policies, helped it gain momentum. This way, Brazil quickly established itself as one of the main trade giants in the world[^3].
 
 [^3]: Moreira, Mauricio. (2009). Brazil's Trade Policy: Old and New Issues. SSRN Electronic Journal. 10.2139/ssrn.1555947.
+
+Expanding trade regimes, as well as increasing production and exports, increase GDP, but at what cost? To be able to fulfill the demand of that much soybeans and maize, Brazil has had to find more arable land. The consequence is the deforestation in the Amazon, and ultimately the exacerbation of climate change. This uncontrollable urge to expand has to be regulated if we want to have a chance to reduce the effects of climate change and to preserve the biggest rainforest in the world. Visualized through the size of Switzerland, the land used by Brazil over the years for soybean is astonishing[^4].
 
 [^4]: Faria, Weslem Rodrigues, and Alexandre Nunes Almeida. “Relationship between Openness to Trade and Deforestation: Empirical Evidence from the Brazilian Amazon.” Ecological Economics, Elsevier, 29 Nov. 2015
 
@@ -110,7 +119,7 @@ Embargos, tariffs, and bans are some of the tools available to governments to in
 
 In the meantime, the world’s major avocado producer, Mexico, mostly traded with Europe.
 
-In 1994, due to the North American Free Trade Agreement (NAFTA), Mexican avocados entered the American market. An avocado explosion followed: in 2016, 76% of the total exports of Avocados from Mexico went to the US, compared to only 13% in 1994. While Mexico’s avocado production was able to follow demands, recently, a combination of decreased production, increased demand, and drug cartels have led to a [guacamole crisis](https://www.dw.com/en/mexico-facing-a-guacamole-crisis/a-49703429) in mexico.
+In 1994, due to the North American Free Trade Agreement (NAFTA), Mexican avocados entered the American market. An avocado explosion followed: in 2016, 76% of the total exports of Avocados from Mexico went to the US, compared to only 13% in 1994. While Mexico’s avocado production was able to follow demands, recently, a combination of decreased production, increased demand, and drug cartels have led to a [guacamole crisis](https://www.dw.com/en/mexico-facing-a-guacamole-crisis/a-49703429) in Mexico.
 
 In the European Union, the demand for Avocados has also exploded: imports increased from 170 thousand tonnes in 1994  to 1810 thousand tonnes by 2016.  The main exporters appear to be South Africa, Mexico, Israel and Kenya, and in the most recent years Peru and Chile.
 

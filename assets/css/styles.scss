@@ -37,6 +37,7 @@ $container-max-widths: (
     overflow: hidden;
     margin-bottom: 5em;
     color: white;
+    height:100%;
 
     .background {
         position: absolute;
@@ -44,6 +45,7 @@ $container-max-widths: (
         height: 100%;
         z-index: -20;
         opacity: 1;
+        height:100%;
 
         filter: brightness(50%);
 
@@ -54,9 +56,10 @@ $container-max-widths: (
     }
 
     h1 {
-        margin-top: 3.5em;
+        margin-top: 3em;
         margin-bottom: 1em;
         font-size: 3em;
+        height:100%;
         @include media-breakpoint-up(sm) { font-size: 4em; }
         @include media-breakpoint-up(md) { font-size: 5em; }
         @include media-breakpoint-up(lg) { font-size: 6em; }
@@ -93,7 +96,6 @@ $container-max-widths: (
         margin-top: 3em;
         margin-bottom: 1em;
         font-size: 1.5em;
-        min-height: 100vh;
         @include media-breakpoint-up(sm) { font-size: 2em; }
         @include media-breakpoint-up(md) { font-size: 3em; }
         @include media-breakpoint-up(lg) { font-size: 3em; }

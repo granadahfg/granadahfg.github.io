@@ -93,7 +93,7 @@ While studying China, we notice another interesting trend. Traditionally, most s
     frameBorder="0">
 </iframe>
 
-The rise of sesame seed is production in africa is mainly due to exportation as a cash crop. In 2016, 16.0% of the African sesame seed production was directed towards Asian countries.
+The rise of sesame seed is production in Africa is mainly due to exportation as a cash crop. In 2016, 16.0% of the African sesame seed production was directed towards Asian countries.
 
 Tanzania is among the largest producers of sesame seeds in the world. In 2015, it alone produced 20.6% of worldwide sesame seeds, and exported 12.2% of its production. That year, Tanzania’s sesame seeds represented 6.6% of the total sesame traded.
 
@@ -107,7 +107,7 @@ Improvements in infrastructure allowed local farmers to directly sell their sesa
   url="assets/img/avocados.jpg"
 %}
 
-Embargos, tariffs, and bans are some of the tools available to governments to influence trade routes. In 1914 the United States placed a ban on avocados to limit the spread of fruit flies. During most of this period, Californian provided most of the necessary avocados for the US. By 1993, the main exporter of Avocados to the US was Chile.
+Embargos, tariffs, and bans are some of the tools available to governments to influence trade routes. In 1914 the United States placed a ban on avocados to limit the spread of fruit flies. During most of this period, California provided most of the necessary avocados for the US. By 1993, the main exporter of Avocados to the US was Chile.
 
 <iframe
     src="assets/html/avocado_trade.html"
@@ -121,7 +121,7 @@ In the meantime, the world’s major avocado producer, Mexico, mostly traded wit
 
 In 1994, due to the North American Free Trade Agreement (NAFTA), Mexican avocados entered the American market. An avocado explosion followed: in 2016, 76% of the total exports of Avocados from Mexico went to the US, compared to only 13% in 1994. While Mexico’s avocado production was able to follow demands, recently, a combination of decreased production, increased demand, and drug cartels have led to a [guacamole crisis](https://www.dw.com/en/mexico-facing-a-guacamole-crisis/a-49703429) in Mexico.
 
-In the European Union, the demand for Avocados has also exploded: imports increased from 170 thousand tonnes in 1994  to 1810 thousand tonnes by 2016.  The main exporters appear to be South Africa, Mexico, Israel and Kenya, and in the most recent years Peru and Chile.
+In the European Union, the demand for Avocado has also exploded: imports increased from 170 thousand tonnes in 1994 to 1810 thousand tonnes by 2016. The main exporters appear to be South Africa, Mexico, Israel and Kenya, and in the most recent years Peru and Chile.
 
 <div class="flourish-embed" data-src="visualisation/1124925"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -137,7 +137,7 @@ Spain is the most important producer of avocados within Europe. It was the main 
   url="assets/img/peru.jpg"
 %}
 
-Beyond governmental policies, consumers can be a major driving force for agricultural trade. Quinoa is another example of a “trending product” whose increasing popularity has had an impact on its producers. 
+Beyond governmental policies, consumers can be a major driving force for agricultural trade. Quinoa is another example of a “trending product” whose increasing popularity has had an impact on its producers.
 
 <iframe
     src="assets/html/quinoa_trade.html"
@@ -157,7 +157,7 @@ The majority of quinoa exports are towards first world economies, mainly the Uni
     frameBorder="0">
 </iframe>
 
-Quinoa is native to the andean plateau, meaning only Ecuador, Bolivia, and Peru have the adequate climate cultivate.  Despite Peru and Bolivia being the main producers worldwide, it is not until 2011 that Peru enters the market, highly increasing their production and becoming the main exporters by 2014.
+Quinoa is native to the Andean plateau, meaning only Ecuador, Bolivia, and Peru have the adequate climate cultivate. Despite Peru and Bolivia being the main producers worldwide, it is not until 2011 that Peru enters the market, highly increasing their production and becoming the main exporters by 2014.
 
 From 2014 to 2016 most of the increasing Peruvian quinoa production was exported to other countries. During this period, the amount of quinoa per person, produced for national markets, stayed relatively constant despite population growth. An analysis of household expenditures of Peruvian families showed that increasing global quinoa prices had modest economic repercussions within the country[^6].
 
@@ -169,7 +169,8 @@ From 2014 to 2016 most of the increasing Peruvian quinoa production was exported
   url="assets/img/road.jpg"
 %}
 
-The path crops take to your plate are diverse. The reasons why they take this journey are even more diverse. 
+The path crops take to your plate are diverse. The reasons why they take this journey are even more diverse.
 
-The list of items that we analyzed is not exhaustive. Their trade routes are affected by factors unique to each of them, however, these all share a trend. Food is affected by globalization. 
-What people produce, on a global scale, has not changed. What has changed is how much and for who. Technological improvements have made the global market more accessible than ever.  With growing incentives to trade local products, countries have been opening up their borders. For an an ever smaller world, the repercussions have been large.
+The list of items that we analyzed is not exhaustive. Their trade routes are affected by factors unique to each of them, however, these all share a trend. Food is affected by globalization. What people produce, on a global scale, has not changed. What has changed is how much and for who.
+
+Technological improvements have made the global market more accessible than ever.  With growing incentives to trade local products, countries have been opening up their borders. For an an ever smaller world, the repercussions have been large.

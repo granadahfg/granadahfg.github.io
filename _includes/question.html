@@ -7,14 +7,40 @@
 
 
     <div class="container">
-      <h1>
-        {{ include.text }}
-      </h1>
+      {% if include.title %}
+        <h1>
+          {{ include.text }}
+        </h1>
 
-      {% unless include.content == blank %}
-      <p class="col-sm-6">
-        {{ include.content | strip_html }}
-      </p>
-      {% endunless %}
+        {% unless include.content == blank %}
+        <p class="col-sm-6" id="subtitle">
+          {{ include.content | strip_html }}
+        </p>
+        {% endunless %}
+      {% else %}
+        <div class="row">
+          {% if include.right_title %}
+            {% unless include.content == blank %}
+              <p class="col-sm">
+                {{ include.content | strip_html }}
+              </p>
+            {% endunless %}
+
+            <h1 class="col-sm">
+              {{ include.text }}
+            </h1>
+          {% else %}
+            <h1 class="col-sm">
+              {{ include.text }}
+            </h1>
+    
+            {% unless include.content == blank %}
+              <p class="col-sm">
+                {{ include.content | strip_html }}
+              </p>
+            {% endunless %}
+          {% endif %}
+        </div>
+      {% endif %}
     </div>
 </header>

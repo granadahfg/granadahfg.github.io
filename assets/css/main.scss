@@ -131,6 +131,11 @@ p + p {
   &:first-child h1 { padding-top: 1.5em; }
 
   p {
+    font-size: 2.5em;
+    margin-top: auto;
+  }
+
+  #subtitle {
     border-top: 5px solid white;
     margin: 0;
     padding: 0;
@@ -140,6 +145,7 @@ p + p {
     font-weight: normal;
     text-shadow: 0 0 4px black;
   }
+
 }
 
 main {
@@ -152,7 +158,6 @@ main {
 
   iframe {
     width: 100%;
-    height: 500px;
     border: none;
   }
 

@@ -16,8 +16,7 @@ Since 1993, the type of crops are traded have not changed much. Despite what soc
 
 <iframe
     src="assets/img/import_export_map.html"
-    width="1200"
-    height="500"
+    height="550"
     seamless="seamless"
     frameBorder="0">
 </iframe>
@@ -30,7 +29,8 @@ China has become the primary importer of agricultural products by tonnes on the 
   include question.html
   text="China"
   image_url="assets/img/soy.jpg"
-  content="Soy imports are on the rise."
+  content="Soy imports are on the rise"
+  in-text=true
 %}
 
 We have seen that China has become the largest importer of agricultural products in the world. But how exactly has China's imports changed? Here is a look at total Chinese imports, between 1993 and 2016.
@@ -54,6 +54,15 @@ As we can see Chinese imports skyrocket but their exports stay more or less stab
 </iframe>
 
 What do they use it for?
+
+{%
+  include question.html
+  text="Brazil"
+  image_url="assets/img/road.jpg"
+  content="Increase in production"
+  in-text=true
+  right_title=true
+%}
 
 #### USA
 

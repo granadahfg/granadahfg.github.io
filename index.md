@@ -26,8 +26,6 @@ However, who exports and who imports crops has significantly shifted in the past
 
 China has become the primary importer of agricultural products by tonnes on the planet, while brazil has risen as a major producer and exporter. When looking at China, we can see that their exports seem to stay constant while imports rise.
 
-But what are they importing.
-
 {%
   include header.html
   text="Soy"
@@ -46,11 +44,15 @@ In 1993 China imported 2.7 % of all agricultural products traded in the world, b
 
 In 1995 Brazil started trading soybeans with China, only supplying 1.4% of its soybean import. By 2013 Brazil became the supplier of almost half of the chinese soybean import. In 2016, 38.6 million tonnes of soybean.
 
-Brazil is almost at the [antipode](https://en.wikipedia.org/wiki/Antipodes) of China. Considering all of humans on earth collectively weigh [60 million tonnes](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas). The china brazil soybean trade moves the equivalent of half of the people on earth, halfway across the world, every year.
+Brazil is almost at the [antipode](https://en.wikipedia.org/wiki/Antipodes) of China. Considering all of humans on earth collectively weigh [60 million tonnes](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas). The china brazil soybean trade moves the equivalent of half of the people on earth, halfway across the world, every year. This staggering amount of soybean is not destined for human consumption. Most of the soybean imported by China is used for feedstock in the pork-meat industry[^2].
 
-Brazil’s trade policies used to be mostly oriented inwards. In the early 90’s, Brazilian exports remained relatively constant, mainly due to an unstable macroeconomic and international context. During this time, it liberalized its trade regime.  A surge in agricultural production at the end of the decade, along with sound macroeconomic policies, helped it gain momentum. This way, Brazil quickly established itself as one of the main trade giants in the world[^2].
+[^2]: <http://www.earth-policy.org/mobile/books/fpep/fpepch9>
 
-[^2]: Moreira, Mauricio. (2009). Brazil's Trade Policy: Old and New Issues. SSRN Electronic Journal. 10.2139/ssrn.1555947.
+Brazil’s trade policies used to be mostly oriented inwards. In the early 90’s, Brazilian exports remained relatively constant, mainly due to an unstable macroeconomic and international context. During this time, it liberalized its trade regime.  A surge in agricultural production at the end of the decade, along with sound macroeconomic policies, helped it gain momentum. This way, Brazil quickly established itself as one of the main trade giants in the world[^3].
+
+[^3]: Moreira, Mauricio. (2009). Brazil's Trade Policy: Old and New Issues. SSRN Electronic Journal. 10.2139/ssrn.1555947.
+
+[^4]: Faria, Weslem Rodrigues, and Alexandre Nunes Almeida. “Relationship between Openness to Trade and Deforestation: Empirical Evidence from the Brazilian Amazon.” Ecological Economics, Elsevier, 29 Nov. 2015
 
 <iframe
     src="assets/html/top10Brazil.html"
@@ -86,9 +88,9 @@ The rise of sesame seed is production in africa is mainly due to exportation as 
 
 Tanzania is among the largest producers of sesame seeds in the world. In 2015, it alone produced 20.6% of worldwide sesame seeds, and exported 12.2% of its production. That year, Tanzania’s sesame seeds represented 6.6% of the total sesame traded.
 
-Improvements in infrastructure allowed local farmers to directly sell their sesame seeds to the global market. This influx of cash drove the increase in production. However, the wealth brought by sesame seeds has been accompanied by a widening economic inequality, not just between urban and rural areas, but within rural areas as well[^3]. While part of the sesame seed production is destined towards local markets, it also refined into sesame seed oil. Sesame seed oils are not reported in the dataset, as such, the values above represent only a part of the sesame seed production destined for trade.
+Improvements in infrastructure allowed local farmers to directly sell their sesame seeds to the global market. This influx of cash drove the increase in production. However, the wealth brought by sesame seeds has been accompanied by a widening economic inequality, not just between urban and rural areas, but within rural areas as well[^5]. While part of the sesame seed production is destined towards local markets, it also refined into sesame seed oil. Sesame seed oils are not reported in the dataset, as such, the values above represent only a part of the sesame seed production destined for trade.
 
-[^3]: Brockington, Dan. "Persistent peasant poverty and assets. Exploring dynamics of new forms of wealth and poverty in Tanzania 1999–2018." The Journal of Peasant Studies (2019): 1-20
+[^5]: Brockington, Dan. "Persistent peasant poverty and assets. Exploring dynamics of new forms of wealth and poverty in Tanzania 1999–2018." The Journal of Peasant Studies (2019): 1-20
 
 {%
   include header.html
@@ -148,6 +150,17 @@ The majority of quinoa exports are towards first world economies, mainly the Uni
 
 Quinoa is native to the andean plateau, meaning only Ecuador, Bolivia, and Peru have the adequate climate cultivate.  Despite Peru and Bolivia being the main producers worldwide, it is not until 2011 that Peru enters the market, highly increasing their production and becoming the main exporters by 2014.
 
-From 2014 to 2016 most of the increasing Peruvian quinoa production was exported to other countries. During this period, the amount of quinoa per person, produced for national markets, stayed relatively constant despite population growth. An analysis of household expenditures of Peruvian families showed that increasing global quinoa prices had modest economic repercussions within the country[^4].
+From 2014 to 2016 most of the increasing Peruvian quinoa production was exported to other countries. During this period, the amount of quinoa per person, produced for national markets, stayed relatively constant despite population growth. An analysis of household expenditures of Peruvian families showed that increasing global quinoa prices had modest economic repercussions within the country[^6].
 
-[^4]: Bellemare, Marc F., Johanna Fajardo-Gonzalez, and Seth R. Gitter. "Foods and fads: The welfare impacts of rising quinoa prices in Peru." World Development 112 (2018): 163-179.
+[^6]: Bellemare, Marc F., Johanna Fajardo-Gonzalez, and Seth R. Gitter. "Foods and fads: The welfare impacts of rising quinoa prices in Peru." World Development 112 (2018): 163-179.
+
+{%
+  include header.html
+  text="Conclusion"
+  url="assets/img/road.jpg"
+%}
+
+The path crops take to your plate are diverse. The reasons why they take this journey are even more diverse. 
+
+The list of items that we analyzed is not exhaustive. Their trade routes are affected by factors unique to each of them, however, these all share a trend. Food is affected by globalization. 
+What people produce, on a global scale, has not changed. What has changed is how much and for who. Technological improvements have made the global market more accessible than ever.  With growing incentives to trade local products, countries have been opening up their borders. For an an ever smaller world, the repercussions have been large.

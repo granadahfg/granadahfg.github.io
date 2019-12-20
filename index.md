@@ -5,11 +5,11 @@ title: Home
 
 Food is not just food. Nowadays, people are aware that the source of your food is much more than just a label. Where food comes from defines the price. Your avocadoes crossed an ocean, they are going to be expensive. But a product’s origin can mean so much more. The food you produce has a carbon foot-print. Depending on the country, workers might not be treated humanely. Some countries, might even have diseases for specific crops, while other  countries don’t. Careful with that banana you bought at the airport, you wouldn’t want bananas to go extinct, [again](<https://www.youtube.com/watch?v=ex0URF-hWj4>). As 21st century “smart” consumers, we are aware that we should always ask ourselves the question: where does my food come from?
 
-But have you ever asked yourself: *why* does my food comes from the places it does?
+But have you ever asked yourself: _why_ does my food comes from the places it does?
 
 Here we look at examples of how various factors, from population growth to consumer demands, can affect the production and international trade of crops. Our aim is to show you how multiple factors have come together to change the global crop market over the past two decades. These global changes, ultimately have had surprising and often undesirable effects on individual countries.
 
-Since 1993, the type of crops that are traded have not changed much. Despite what social media might make you believe, super-food have not completely changed what people produce, trade, and consume. Since 1993, the most traded products have by far been wheat, maize, and soybean. While these are staple foods throughout the world, they are not produced at much higher quantities than other staples like potatoes and rice. The real driver behind the trade of these three products is animal feed and biofuel production ^[1].
+Since 1993, the type of crops that are traded have not changed much. Despite what social media might make you believe, super-food have not completely changed what people produce, trade, and consume. Since 1993, the most traded products have by far been wheat, maize, and soybean. While these are staple foods throughout the world, they are not produced at much higher quantities than other staples like potatoes and rice. The real driver behind the trade of these three products is animal feed and biofuel production [^1].
 
 [^1]: Cassidy, Emily S., et al. "Redefining agricultural yields: from tonnes to people nourished per hectare." Environmental Research Letters 8.3 (2013): 034015.
 
@@ -46,7 +46,7 @@ In 1993 China imported 2.7 % of all agricultural products traded in the world, b
 
 In 1995 Brazil started trading soybeans with China, only supplying 1.4% of its soybean import. By 2013 Brazil became the supplier of almost half of the chinese soybean import. In 2016, 38.6 million tonnes of soybean.
 
-Brazil is almost at the antipode https://en.wikipedia.org/wiki/Antipodes of China. Considering all of humans on earth collectively [weigh 60 million tons](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas). The china brazil soybean trade moves the equivalent of half of the people on earth, halfway across the world, every year.
+Brazil is almost at the [antipode](https://en.wikipedia.org/wiki/Antipodes) of China. Considering all of humans on earth collectively weigh [60 million tonnes](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas). The china brazil soybean trade moves the equivalent of half of the people on earth, halfway across the world, every year.
 
 Brazil’s trade policies used to be mostly oriented inwards. In the early 90’s, Brazilian exports remained relatively constant, mainly due to an unstable macroeconomic and international context. During this time, it liberalized its trade regime.  A surge in agricultural production at the end of the decade, along with sound macroeconomic policies, helped it gain momentum. This way, Brazil quickly established itself as one of the main trade giants in the world[^2].
 

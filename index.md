@@ -173,4 +173,6 @@ The path crops take to your plate are diverse. The reasons why they take this jo
 
 The list of items that we analyzed is not exhaustive. Their trade routes are affected by factors unique to each of them, however, these all share a trend. Food is affected by globalization. What people produce, on a global scale, has not changed. What has changed is how much and for who.
 
+### References
+
 Technological improvements have made the global market more accessible than ever.  With growing incentives to trade local products, countries have been opening up their borders. For an an ever smaller world, the repercussions have been large.

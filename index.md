@@ -24,6 +24,8 @@ Since 1993, the type of crops that are traded have not changed much. Despite wha
 
 However, who exports and who imports crops has significantly shifted in the past two decades. China has become the primary importer of agricultural products by tonnes on the planet, while Brazil has risen as a major producer and exporter.
 
+This first map displays all trades with edges. The slider can be moved to change years. The thickness of the lines is proportional to the amount traded, and the size of the points represent the total import for a country. The color of each country represents its total production. All European Union members are grouped as a single entity. The maps further down have the same information for specific products.
+
 <iframe
     src="assets/html/world_trade.html"
     height="550"

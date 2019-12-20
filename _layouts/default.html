@@ -1,10 +1,21 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
+
   <body>
+
+    {%
+      include title.html
+      text=site.title
+      image_url="assets/img/cargo.jpg"
+      content=site.description
+    %}
+
     {{ content }}
   </body>
+
 </html>

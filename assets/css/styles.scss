@@ -1,0 +1,25 @@
+---
+---
+
+// Setting the font, using Adobe fonts
+
+$font-family-base: "source-serif-pro", serif;
+$font-family-headings: "source-serif-pro", serif;
+$font-weight-base: 400;
+$font-size-base:  16px;
+
+@import "bootstrap";
+
+.title {
+
+    .background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: -10;
+    
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}

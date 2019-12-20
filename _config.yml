@@ -1,0 +1,11 @@
+
+
+title: Agricultural Trade
+description: How has global agricultural trade changed since the 90s?
+baseurl: "/"
+
+url: "https://granadahfg.github.io/"
+github_username: granadahfg
+
+# Build settings
+markdown: kramdown

@@ -16,14 +16,14 @@ Since 1993, the type of crops are traded have not changed much. Despite what soc
 ![Gify gif gif](assets/img/total_trade.png)
 
 <iframe
-    src="assets/img/import_export_map.html"
+    src="assets/html/import_export_map.html"
     height="550"
     seamless="seamless"
     frameBorder="0">
 </iframe>
 
 <iframe
-    src="assets/img/world_trade.html"
+    src="assets/html/world_trade.html"
     height="550"
     seamless="seamless"
     frameBorder="0">
@@ -40,7 +40,7 @@ But what are they importing.
 They mostly import soy.
 
 <iframe
-    src="assets/img/china_import_soy.html"
+    src="assets/html/china_import_soy.html"
     width="820"
     height="420"
     seamless="seamless"
@@ -59,7 +59,7 @@ They mostly import soy.
 Brazil's trade policies were mostly oriented inwards in the past. However, in the early 1990s, it liberalized its trade regime and quickly established itself as one the main trade giants in the world. Furthermore, we notice that the growth is not exactly linear, as we notice a certain plateau in the exports between 1993 and 1996. This was mainly due to a an unstable macroeconomic and international context. A surge in production at the end of the 1990s, along with sound macroeconomic policies, helped Brazil gain momentum and increase their exports.
 
 <iframe
-    src="assets/img/top10ExportedBrazil.html"
+    src="assets/html/top10ExportedBrazil.html"
     width="800"
     height="550"
     seamless="seamless"
@@ -67,7 +67,7 @@ Brazil's trade policies were mostly oriented inwards in the past. However, in th
 </iframe>
 
 <iframe
-    src="assets/img/top10ProducedBrazil.html"
+    src="assets/html/top10ProducedBrazil.html"
     width="800"
     height="550"
     seamless="seamless"
@@ -79,7 +79,7 @@ Brazil mainly exports soybeans and maize, as it holds close proximity to the mar
 ![Gify gif gif](assets/img/areas_harvested.gif)
 
 <iframe
-    src="assets/img/areaHarvestedGif.html"
+    src="assets/html/areaHarvestedGif.html"
     width="800"
     height="550"
     seamless="seamless"
@@ -93,7 +93,7 @@ Expanding trade regimes as well as increasing production and exports mean GDP gr
 When studying China, we notice another interesting trend.
 
 <iframe
-    src="assets/img/sesame_trade.html"
+    src="assets/html/sesame_trade.html"
     width="800"
     height="550"
     seamless="seamless"
@@ -112,7 +112,7 @@ What happens to the global trade of products that become health crazes?
 * Let's look at avocados
 
 <iframe
-    src="assets/img/avocado_trade.html"
+    src="assets/html/avocado_trade.html"
     width="800"
     height="550"
     seamless="seamless"
@@ -126,7 +126,7 @@ What happens to the global trade of products that become health crazes?
 ## Quinoa
 
 <iframe
-    src="assets/img/quinoa_trade.html"
+    src="assets/html/quinoa_trade.html"
     width="800"
     height="550"
     seamless="seamless"

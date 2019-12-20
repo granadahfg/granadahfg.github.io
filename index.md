@@ -33,8 +33,6 @@ This first map displays all trades with edges. The slider can be moved to change
     frameBorder="0">
 </iframe>
 
-However, who exports and who imports crops has significantly shifted in the past two decades.
-
 {%
   include header.html
   text="Soy"
@@ -51,7 +49,7 @@ In 1993, China imported 2.7 % of all agricultural products traded in the world, 
     frameBorder="0">
 </iframe>
 
-In 1995 Brazil started trading soybeans with China, only supplying 1.4% of its soybean import. By 2013 Brazil became the supplier of almost half of the chinese soybean import. In 2016, 38.6 million tonnes of soybean.
+In 1995, Brazil started trading soybeans with China, only supplying 1.4% of its soybean import. By 2013 Brazil became the supplier of almost half of the chinese soybean import. In 2016, 38.6 million tonnes of soybean.
 
 Brazil is almost at the [antipode](https://en.wikipedia.org/wiki/Antipodes) of China. Considering all of humans on earth collectively weigh [60 million tonnes](https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas). The china brazil soybean trade moves the equivalent of half of the people on earth, halfway across the world, every year. This staggering amount of soybean is not destined for human consumption. Most of the soybean imported by China is used for feedstock in the pork-meat industry[^2].
 

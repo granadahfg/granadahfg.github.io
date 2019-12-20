@@ -132,6 +132,14 @@ What happens to the global trade of products that become health crazes?
     frameBorder="0">
 </iframe>
 
+<iframe
+    src="assets/html/top10Quinoa.html"
+    width="800"
+    height="550"
+    seamless="seamless"
+    frameBorder="0">
+</iframe>
+
 * Let's look at Quinoa
 * Peru's emergence as an exporter
 * Its popularity (Google Trends)

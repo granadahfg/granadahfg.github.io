@@ -39,7 +39,7 @@ This first map displays all trades with edges. The slider can be moved to change
   url="assets/img/soy.jpg"
 %}
 
-In 1993, China imported 2.7 % of all agricultural products traded in the world, by 2016 this became 14.5%. Most of this change is due to soybean. In 1993 soybeans represented only 1.3% of China’s agricultural imports, but by 2016 it became 69.8%.
+In 1993, China imported 2.7 % of all agricultural products traded in the world, by 2016 this became 14.5%. Most of this change is due to soybean. In 1993, soybeans represented only 1.3% of China’s agricultural imports, but by 2016 it became 69.8%.
 
 <iframe
     src="assets/html/china_import_soy.html"
@@ -81,7 +81,7 @@ By sheer volume, soybeans stand out as the most traded crop of the last decade. 
   url="assets/img/sesame.jpg"
 %}
 
-While studying China, we notice another interesting trend. Traditionally, most sesame seeds were produced in Asia (specifically India, Myanmar, and China). Since 2010 however, various central and southern african countries have drastically increased their sesame seed production. At the same time production in China and India have decreased.
+While studying China, we notice another interesting trend. Traditionally, most sesame seeds were produced in Asia (specifically India, Myanmar, and China). Since 2010, however, various central and southern african countries have drastically increased their sesame seed production. At the same time, production in China and India have decreased.
 
 <iframe
     src="assets/html/sesame_trade.html"
@@ -145,7 +145,7 @@ Beyond governmental policies, consumers can be a major driving force for agricul
     frameBorder="0">
 </iframe>
 
-The majority of quinoa exports are towards first world economies, mainly the United States, Canada and Europe. It catches the attention that the Netherlands appears again as the most relevant exporter in country. In 2016, over 80% of their imports were re-exported to the rest of the European countries, mainly to Austria, Germany, France, Italy and Belgium.
+The majority of quinoa exports are towards first world economies, mainly the United States, Canada and Europe. It catches the attention that the Netherlands appears again as the most relevant non-producing exporter in Europe. In 2016, over 80% of their imports were re-exported to the rest of the European countries, mainly to Austria, Germany, France, Italy and Belgium.
 
 <iframe
     src="assets/html/top10Quinoa.html"

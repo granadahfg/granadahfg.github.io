@@ -8,6 +8,13 @@ $font-family-headings: "roboto", sans-serif;
 $font-weight-base: 400;
 $font-size-base:  1.2rem;
 
+$container-max-widths: (
+  sm: 540px,
+  md: 700px,
+  lg: 800px,
+  xl: 900px
+);
+
 @import "bootstrap";
   
 @include media-breakpoint-down(xs) {
@@ -35,7 +42,7 @@ $font-size-base:  1.2rem;
         position: absolute;
         width: 100%;
         height: 100%;
-        z-index: -10;
+        z-index: -20;
         opacity: 1;
 
         filter: brightness(50%);
@@ -47,13 +54,16 @@ $font-size-base:  1.2rem;
     }
 
     h1 {
-        font-size: 2em;
-        @include media-breakpoint-up(sm) { font-size: 3em; }
-        @include media-breakpoint-up(md) { font-size: 4em; }
-        @include media-breakpoint-up(lg) { font-size: 5em; }
-        @include media-breakpoint-up(xl) { font-size: 6em; }
+        margin-top: 4em;
+        margin-bottom: 1em;
+        font-size: 3em;
+        @include media-breakpoint-up(sm) { font-size: 4em; }
+        @include media-breakpoint-up(md) { font-size: 5em; }
+        @include media-breakpoint-up(lg) { font-size: 6em; }
+        @include media-breakpoint-up(xl) { font-size: 8em; }
     }
 }
+
 
 .header {
 
@@ -79,14 +89,14 @@ $font-size-base:  1.2rem;
         background-position: center center;
     }
 
-    .container { padding-bottom: 4em; }
-
     h1 {
+        margin-top: 3em;
+        margin-bottom: 1em;
         font-size: 1.5em;
-        @include media-breakpoint-up(sm) { font-size: 3em; }
-        @include media-breakpoint-up(md) { font-size: 4em; }
-        @include media-breakpoint-up(lg) { font-size: 5em; }
-        @include media-breakpoint-up(xl) { font-size: 6em; }
+        @include media-breakpoint-up(sm) { font-size: 2em; }
+        @include media-breakpoint-up(md) { font-size: 3em; }
+        @include media-breakpoint-up(lg) { font-size: 3em; }
+        @include media-breakpoint-up(xl) { font-size: 4em; }
     }
 }
 
@@ -95,7 +105,6 @@ main {
       max-width: 100%;
       margin: 0 auto;
       display: block;
-      border: 1px solid rgba(0,0,0,0.1);
     }
   
     iframe {
@@ -105,15 +114,16 @@ main {
       margin-right: auto;
     }
 
-    footer {
-        margin-top: 2em;
-        padding: 5em 0;
-        background-color: #000000;
-        color: $gray-200;
-      
-        img {
-          width: 20px;
-          vertical-align: middle;
-        }
+}
+
+footer {
+    margin-top: 2em;
+    padding: 5em 0;
+    background-color: #525252;
+    color: $gray-200;
+  
+    img {
+      width: 5px;
+      vertical-align: middle;
     }
-  }
+}

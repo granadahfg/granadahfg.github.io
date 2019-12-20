@@ -54,15 +54,7 @@ They mostly import soy.
 Brazil's trade policies were mostly oriented inwards in the past. However, in the early 1990s, it liberalized its trade regime and quickly established itself as one the main trade giants in the world. Furthermore, we notice that the growth is not exactly linear, as we notice a certain plateau in the exports between 1993 and 1996. This was mainly due to a an unstable macroeconomic and international context. A surge in production at the end of the 1990s, along with sound macroeconomic policies, helped Brazil gain momentum and increase their exports.
 
 <iframe
-    src="assets/html/top10ExportedBrazil.html"
-    width="800"
-    height="550"
-    seamless="seamless"
-    frameBorder="0">
-</iframe>
-
-<iframe
-    src="assets/html/top10ProducedBrazil.html"
+    src="assets/html/top10Brazil.html"
     width="800"
     height="550"
     seamless="seamless"

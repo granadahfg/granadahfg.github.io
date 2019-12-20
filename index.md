@@ -37,7 +37,6 @@ But what are they importing.
   include question.html
   text="Soy"
   image_url="assets/img/soy.jpg"
-  content="Soy imports are on the rise"
   in-text=true
 %}
 
@@ -64,7 +63,6 @@ They mostly import soy.
   include question.html
   text="Sesame Seeds"
   image_url="assets/img/sesame.jpg"
-  content="Local Economics"
   right_title=true
 %}
 
@@ -79,7 +77,6 @@ When studying China, we notice another interesting trend.
   include question.html
   text="Avocados"
   image_url="assets/img/avocados.jpg"
-  content="Local Economics"
   in-text=true
 %}
 
@@ -91,7 +88,6 @@ What happens to the global trade of products that become health crazes?
   include question.html
   text="Quinoa"
   image_url="assets/img/peru.jpg"
-  content="Quinoa Quinoa Quinoa"
   in-text=true
   right_title=true
 %}

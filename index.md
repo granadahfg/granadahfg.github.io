@@ -63,15 +63,7 @@ Brazil's trade policies were mostly oriented inwards in the past. However, in th
 
 Brazil mainly exports soybeans and maize, as it holds close proximity to the market of livestock and poultry.
 
-![Gify gif gif](assets/img/areas_harvested.gif)
-
-<iframe
-    src="assets/html/areaHarvestedGif.html"
-    width="800"
-    height="550"
-    seamless="seamless"
-    frameBorder="0">
-</iframe>
+<img src="assets/img/areas_harvested.gif" alt="Soybean exports" style="width:300px;"/>
 
 Expanding trade regimes as well as increasing production and exports mean GDP growth, but at what cost? To be able to export that much soybeans and maize, Brazil has to find more arable land. And where else can it find it than in the Amazon? The promotion of those products is a major driver for deforestation in the Amazon, which contributes directly to climate change. This uncontrollable urge to expand has to be regulated if we want to have a chance to reduce the effects of climate change.
 

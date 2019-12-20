@@ -131,7 +131,7 @@ p + p {
   &:first-child h1 { padding-top: 1.5em; }
 
   p {
-    font-size: 2.5em;
+    font-size: 2.0 em;
     margin-top: auto;
   }
 
@@ -196,7 +196,7 @@ footer {
   margin-top: 2em;
   padding: 5em 0;
   background-color: map-get($themecolors, darkblue);
-  color: $gray-600;
+  color: $gray-300;
 
   img {
     width: 20px;

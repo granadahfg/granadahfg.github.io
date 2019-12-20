@@ -9,6 +9,8 @@ But have you ever asked yourself: _why_ does my food comes from the places it do
 
 Here we look at examples of how various factors, from population growth to consumer demands, can affect the production and international trade of crops. Our aim is to show you how multiple factors have come together to change the global crop market over the past two decades. These global changes, ultimately have had surprising and often undesirable effects on individual countries.
 
+Hereunder is shown a stackplot of the evolution of the proportion of the world's most commonly traded commodities, by weight, in 2016. You can click on one of the items to the see the trade distribution without it.
+
 <iframe
     src="assets/html/Globaal_trade_item.html"
     height="550"
@@ -20,7 +22,7 @@ Since 1993, the type of crops that are traded have not changed much. Despite wha
 
 [^1]: Cassidy, Emily S., et al. "Redefining agricultural yields: from tonnes to people nourished per hectare." Environmental Research Letters 8.3 (2013): 034015.
 
-However, who exports and who imports crops has significantly shifted in the past two decades. China has become the primary importer of agricultural products by tonnes on the planet, while brazil has risen as a major producer and exporter.
+However, who exports and who imports crops has significantly shifted in the past two decades. China has become the primary importer of agricultural products by tonnes on the planet, while Brazil has risen as a major producer and exporter.
 
 <iframe
     src="assets/html/world_trade.html"
@@ -39,7 +41,7 @@ China has become the primary importer of agricultural products by tonnes on the 
   url="assets/img/soy.jpg"
 %}
 
-In 1993 China imported 2.7 % of all agricultural products traded in the world, by 2016 this became 14.5%. Most of this change is due to soybean. In 1993 soybeans represented only 1.3% of China’s agricultural imports, but by 2016 it became 69.8%.
+In 1993, China imported 2.7 % of all agricultural products traded in the world, by 2016 this became 14.5%. Most of this change is due to soybean. In 1993 soybeans represented only 1.3% of China’s agricultural imports, but by 2016 it became 69.8%.
 
 <iframe
     src="assets/html/china_import_soy.html"
@@ -59,10 +61,6 @@ Brazil’s trade policies used to be mostly oriented inwards. In the early 90’
 
 [^3]: Moreira, Mauricio. (2009). Brazil's Trade Policy: Old and New Issues. SSRN Electronic Journal. 10.2139/ssrn.1555947.
 
-Expanding trade regimes, as well as increasing production and exports, increase GDP, but at what cost? To be able to fulfill the demand of that much soybeans and maize, Brazil has had to find more arable land. The consequence is the deforestation in the Amazon, and ultimately the exacerbation of climate change. This uncontrollable urge to expand has to be regulated if we want to have a chance to reduce the effects of climate change and to preserve the biggest rainforest in the world. Visualized through the size of Switzerland, the land used by Brazil over the years for soybean is astonishing[^4].
-
-[^4]: Faria, Weslem Rodrigues, and Alexandre Nunes Almeida. “Relationship between Openness to Trade and Deforestation: Empirical Evidence from the Brazilian Amazon.” Ecological Economics, Elsevier, 29 Nov. 2015
-
 <iframe
     src="assets/html/top10Brazil.html"
     width="800"
@@ -71,11 +69,13 @@ Expanding trade regimes, as well as increasing production and exports, increase 
     frameBorder="0">
 </iframe>
 
-By sheer volume, soybeans stand out as the most traded crop of the last decade. However, many other crops have interesting trade and production patterns without representing a large portion of global trades. To identify these crops, the [Hills number](https://en.wikipedia.org/wiki/Diversity_index) was used. This metric quantifies the diversity in producers for each crop. How this number changes over time can highlight whether crops are being produced by fewer or more countries. Sesame seeds stood among the crops with the largest increase in diversity.
+Expanding trade regimes, as well as increasing production and exports, increase GDP, but at what cost? To be able to fulfill the demand of that much soybeans and maize, Brazil has had to find more arable land. The consequence is the deforestation in the Amazon, and ultimately the exacerbation of climate change. This uncontrollable urge to expand has to be regulated if we want to have a chance to reduce the effects of climate change and to preserve the biggest rainforest in the world. Visualized through the size of Switzerland, the land used by Brazil over the years for soybean is astonishing[^4].
+
+[^4]: Faria, Weslem Rodrigues, and Alexandre Nunes Almeida. “Relationship between Openness to Trade and Deforestation: Empirical Evidence from the Brazilian Amazon.” Ecological Economics, Elsevier, 29 Nov. 2015
 
 <img src="assets/img/areas_harvested.gif" alt="Soybean exports" style="width:300px;"/>
 
-Expanding trade regimes as well as increasing production and exports mean GDP growth, but at what cost? To be able to export that much soybeans and maize, Brazil has to find more arable land. And where else can it find it than in the Amazon? The promotion of those products is a major driver for deforestation in the Amazon, which contributes directly to climate change. This uncontrollable urge to expand has to be regulated if we want to have a chance to reduce the effects of climate change.
+By sheer volume, soybeans stand out as the most traded crop of the last decade. However, many other crops have interesting trade and production patterns without representing a large portion of global trades. To identify these crops, the [Hills number](https://en.wikipedia.org/wiki/Diversity_index) was used. This metric quantifies the diversity in producers for each crop. How this number changes over time can highlight whether crops are being produced by fewer or more countries. Sesame seeds stood among the crops with the largest increase in diversity.
 
 {%
   include header.html
@@ -83,7 +83,7 @@ Expanding trade regimes as well as increasing production and exports mean GDP gr
   url="assets/img/sesame.jpg"
 %}
 
-When studying China, we notice another interesting trend. Traditionally, most sesame seeds were produced in Asia (specifically India, Myanmar, and China). Since 2010 however, various central and southern african countries have drastically increased their sesame seed production. At the same time production in China and India have decreased.
+While studying China, we notice another interesting trend. Traditionally, most sesame seeds were produced in Asia (specifically India, Myanmar, and China). Since 2010 however, various central and southern african countries have drastically increased their sesame seed production. At the same time production in China and India have decreased.
 
 <iframe
     src="assets/html/sesame_trade.html"

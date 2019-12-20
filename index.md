@@ -35,8 +35,6 @@ This first map displays all trades with edges. The slider can be moved to change
 
 However, who exports and who imports crops has significantly shifted in the past two decades.
 
-China has become the primary importer of agricultural products by tonnes on the planet, while brazil has risen as a major producer and exporter. When looking at China, we can see that their exports seem to stay constant while imports rise.
-
 {%
   include header.html
   text="Soy"
